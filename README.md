@@ -39,5 +39,6 @@ Linux (Ubuntu/Debian): Run sudo apt-get install tesseract-ocr.
 
 macOS: Use Homebrew: brew install tesseract.
 
-
+RUN:
+streamlit run app.py
 
