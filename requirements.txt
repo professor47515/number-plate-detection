@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+Pillow
+tempfile
+opencv-python
+numpy
+pytesseract
